@@ -1,2 +1,2 @@
 # starter-typescript-dev
-A simple starter project to learn typescript
+A simple boilerplate project to learn typescript on Node env.
