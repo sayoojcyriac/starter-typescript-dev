@@ -1,16 +1,24 @@
 {
-  "name": "advanced-typescript",
+  "name": "starter-typescript-dev",
   "version": "1.0.0",
+  "description": "A simple starter project to learn typescript",
   "main": "index.js",
-  "license": "MIT",
-  "scripts": {},
-  "devDependencies": {
-    "@types/node": "^12.7.11"
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "dependencies": {
-    "cross-env": "^7.0.3",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sayoojcyriac/starter-typescript-dev.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sayoojcyriac/starter-typescript-dev/issues"
+  },
+  "homepage": "https://github.com/sayoojcyriac/starter-typescript-dev#readme",
+  "devDependencies": {
     "ts-node": "^10.9.1",
-    "tslib": "^2.4.0",
     "typescript": "^4.7.4"
   }
 }
