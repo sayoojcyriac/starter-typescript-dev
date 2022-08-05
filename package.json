@@ -1,0 +1,16 @@
+{
+  "name": "advanced-typescript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {},
+  "devDependencies": {
+    "@types/node": "^12.7.11"
+  },
+  "dependencies": {
+    "cross-env": "^7.0.3",
+    "ts-node": "^10.9.1",
+    "tslib": "^2.4.0",
+    "typescript": "^4.7.4"
+  }
+}
